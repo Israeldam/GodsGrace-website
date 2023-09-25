@@ -1,0 +1,28 @@
+header{
+    background-color: rgb(19,67,97);
+    height: 70px;
+}
+.header nav a{
+    color: white;
+    display: con;
+}
+.header nav{
+    margin-left: 800px;
+    display: inline-block;
+}
+#image{
+    height: 60px;
+    padding-left: 100px;
+}
+nav a{
+    padding: 10px;
+}
+#twitter{
+    height: 300px;
+    margin-left: 100px;
+    margin-top: 35px;
+}
+#image2{
+    height: 400px;
+    width: 1300px;
+}

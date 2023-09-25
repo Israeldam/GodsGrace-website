@@ -1,0 +1,103 @@
+.course{
+    margin-left: 120px;
+    margin-top: 200px;
+}
+#Take{
+    font-family: sans-serif;
+}
+#view{
+    font-family: sans-serif;
+}
+.d1{
+    width: 450px;
+    height: 560px;
+    border: 2px solid black;
+    border-radius: 18px;
+    margin-top: 50px;
+    margin-left: 120px;
+    background-color: rgb(213,234,243);
+}
+#image1{
+    height: 200px;
+    width: 360px;
+    padding: 40px 40px;
+    border-radius: 80px;
+}
+#image2{
+    height: 240px;
+    width: 360px;
+    padding: 40px 40px;
+    border-radius: 80px;
+}
+#image3{
+    height: 240px;
+    width: 360px;
+    padding: 40px 40px;
+    border-radius: 80px;
+}
+#image4{
+    height: 240px;
+    width: 360px;
+    padding: 40px 40px;
+    border-radius: 80px;
+}
+#soft{
+    padding-left: 50px;
+    margin-top: -30px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#learn{
+    padding-left: 50px;
+}
+#soft2{
+    padding-left: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#soft3{
+    padding-left: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#soft4{
+    padding-left: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.container{
+    display: flex;
+    
+}
+#top{
+    font-size: 50px;
+    font-family: sans-serif;
+}
+.d2{
+    width: 450px;
+    height: 600px;
+    border: 2px solid black;
+    border-radius: 18px;
+    margin-left: 50px;
+    margin-top: -50px;
+    background-color: #eeefbd;
+}
+ .main2{
+    display: flex;
+ }
+
+.d3{
+    width: 450px;
+    height: 600px;
+    border: 2px solid black;
+    border-radius: 18px;
+    margin-top: 30px;
+    margin-left: 120px;
+    background-color: #e0d5c0;
+
+}
+.d4{
+    width: 450px;
+    height: 600px;
+    border: 2px solid black;
+    border-radius: 18px;
+    margin-left: 50px;
+    margin-top: -30px;
+    background-color: #dfd5e8;
+}
